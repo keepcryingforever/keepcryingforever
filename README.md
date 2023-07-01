@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @keepcryingforever
+- 👀 I’m interested in front-end development and web-design
+- 🌱 I’m currently learning Javascript, CSS, HTML5
+- 💞️ I’m looking to collaborate on anything rly
+- 📫 How to reach me just text me
